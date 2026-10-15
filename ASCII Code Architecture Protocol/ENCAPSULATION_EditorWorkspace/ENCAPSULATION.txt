@@ -1,0 +1,5 @@
+/*
+ENCAPSULATION:EditorWorkspace
+
+EXTERNAL.(INPUT) ---> AREA.(EditorState) ---> EXTERNAL.(OUTPUT)
+*/

@@ -1,0 +1,7 @@
+/*
+AREA:ContextMenu
+
+NODE.(Input) ---> NODE.(Validate) ---> NODE.(Process) ---> NODE.(Output)
+*/
+
+// ContextMenu: 獨立功能區，對外透過封裝公開介面交換 JSON 資料。

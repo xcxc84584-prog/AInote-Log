@@ -1,0 +1,5 @@
+/*
+AREA:Summarize
+
+AREA.(EditorState) ---> AREA.(PasteHandler) ---> AREA.(FormulaRenderer) ---> AREA.(MarkdownPreview)
+*/

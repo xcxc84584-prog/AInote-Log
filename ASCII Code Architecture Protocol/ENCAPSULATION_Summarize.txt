@@ -1,0 +1,5 @@
+/*
+ENCAPSULATION:Summarize
+
+ENCAPSULATION.(Explorer) ---> ENCAPSULATION.(EditorWorkspace) ---> ENCAPSULATION.(DocumentStorage)
+*/

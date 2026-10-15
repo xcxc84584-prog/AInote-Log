@@ -1,0 +1,5 @@
+/*
+ENCAPSULATION:Explorer
+
+EXTERNAL.(INPUT) ---> AREA.(FolderAccess) ---> EXTERNAL.(OUTPUT)
+*/

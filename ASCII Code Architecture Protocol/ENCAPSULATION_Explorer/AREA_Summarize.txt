@@ -1,0 +1,5 @@
+/*
+AREA:Summarize
+
+AREA.(FolderAccess) ---> AREA.(TreeView) ---> AREA.(ContextMenu) ---> AREA.(NodeOrdering) ---> AREA.(FileOperations)
+*/

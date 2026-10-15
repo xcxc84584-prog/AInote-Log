@@ -1,0 +1,5 @@
+/*
+ENCAPSULATION:DocumentStorage
+
+EXTERNAL.(INPUT) ---> AREA.(SaveDocument) ---> EXTERNAL.(OUTPUT)
+*/
