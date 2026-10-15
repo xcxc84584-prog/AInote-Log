@@ -16,3 +16,7 @@
 - Markdown 與 MathJax 引擎由 CDN 載入，需要網路連線；CDN 不可用時以純文字安全預覽。
 - 本版提供拖放排序；觸控長按拖動在不同 Android 瀏覽器上可能受限。
 - Streamlit iframe 在部分瀏覽器下可能限制資料夾授權功能。
+
+
+## v1.1 單一編輯即預覽
+中央改成 contenteditable 單一所見即所得區域。輸入直接顯示格式，貼上富文字即顯示；離開編輯區或按工具重新渲染時重新處理 LaTeX。Markdown 匯出使用 Turndown。注意：複雜 LaTeX 的編輯/匯出保真尚有限制，建議備份原檔。
